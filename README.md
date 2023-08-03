@@ -10,9 +10,9 @@
 
 💫 Read csv, xml and json file types.
 
-💫Extract data from the above file types.
+💫 Extract data from the above file types.
 
-💫Transform data.
+💫 Transform data.
 
 💫 Use the built in logging module.
 
